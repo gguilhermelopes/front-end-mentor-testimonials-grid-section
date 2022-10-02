@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/gguilhermelopes/front-end-mentor-testimonials-grid-section-main)
-- Live Site URL: [Live URL](https://gguilhermelopes.github.io/front-end-mentor-testimonials-grid-section-main/)
+- Solution URL: [Repository](https://github.com/gguilhermelopes/front-end-mentor-testimonials-grid-section)
+- Live Site URL: [Live URL](https://gguilhermelopes.github.io/front-end-mentor-testimonials-grid-section/)
 
 ## My process
 
